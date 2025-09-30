@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Eco Hoodie",
+    "description": "Nachhaltiger Hoodie aus Biobaumwolle.",
+    "price": 49.9
+  },
+  {
+    "id": 2,
+    "name": "Print Poster A2",
+    "description": "Hochwertiges Poster, 420x594mm.",
+    "price": 19.5
+  },
+  {
+    "id": 3,
+    "name": "Phone Case",
+    "description": "Robustes Case f\u00fcr viele Modelle.",
+    "price": 14.9
+  }
+]
